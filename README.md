@@ -26,5 +26,5 @@ You can install these dependencies using pip:
 
 ```bash
 pip install face_recognition opencv-python cmake numpy
-```bash
+
 python face_recognition_attendance.py
